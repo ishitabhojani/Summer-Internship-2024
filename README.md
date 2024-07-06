@@ -1,5 +1,6 @@
 # Summer-Internship-2024
-**1. Recruitment Tracker Dashboard: **
+
+# 1. Recruitment Tracker Dashboard:
 
 **Introduction:**
 
@@ -13,17 +14,18 @@ The recruitment tracker dashboard was designed to integrate and manage data from
 **Microsoft Excel:**
 
 Excel served as the foundational tool for data entry and management. I used Excel to collect and organize recruitment data, including job requirements, candidate applications, interview schedules, and feedback. Excel's powerful formulas and functions allowed me to perform essential calculations for key recruitment metrics like time per hire and cost per employee.
-Microsoft Power BI:
+
+**Microsoft Power BI:**
 
 Power BI was the main tool for data visualization and analytics. By importing data from Excel into Power BI, I created data models to establish relationships between different data tables. Power BI's DAX (Data Analysis Expressions) queries enabled advanced data manipulation and custom metric calculations. The interactive dashboards and reports provided valuable insights into recruitment trends and performance.
 Project Workflow:
-**
-System Planning with Flowcharts:**
+
+**System Planning with Flowcharts:**
 
 I began by creating flowcharts to map out the entire recruitment process. This step was crucial for understanding the workflow and identifying the data points that needed to be tracked. The flowcharts helped in visualizing the stages from job posting to candidate feedback.
 
-**
-Data Collection and Preparation in Excel:**
+
+**Data Collection and Preparation in Excel:**
 After planning, I collected and organized recruitment data in Excel. This included details about job postings, candidate applications, interview schedules, and feedback from HR and interviewers. Using Excel's data cleaning features, I ensured the data was accurate and consistent.
 Excel's formulas and functions were employed to calculate essential recruitment metrics, such as the average time to hire and the cost per employee.
 
