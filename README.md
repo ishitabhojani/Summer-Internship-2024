@@ -79,7 +79,7 @@ With the data cleaned and initial insights gathered, the next step was to automa
 
 **Automating Analysis with Python:**
 
-**pandas: **The pandas library was essential for data manipulation and analysis. It allowed me to handle large datasets efficiently and perform complex operations with ease.
+**pandas:** The pandas library was essential for data manipulation and analysis. It allowed me to handle large datasets efficiently and perform complex operations with ease.
 matplotlib and seaborn: These libraries were used to create detailed and aesthetically pleasing visualizations. They helped in highlighting trends and patterns that were not immediately apparent in the initial Excel analysis.
 **numpy:** Supported numerical operations and array handling, essential for performing calculations on large datasets.
 **Creating Automation Scripts:**
