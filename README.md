@@ -119,10 +119,3 @@ This project not only enhanced my technical skills but also demonstrated the pow
 
 Overall, my 1-month internship project was a transformative experience that showcased the benefits of integrating Excel and Python for sales data analysis. It provided the business with actionable insights and laid the foundation for more efficient and accurate data management practices in the future.
 
-
-
-
-
-
-
-
