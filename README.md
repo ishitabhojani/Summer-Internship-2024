@@ -55,6 +55,7 @@ Thank you for reading about my internship experience. I hope this blog provides 
 **Introduction:**
 During my recent 1-month internship, I undertook a project to transform how sales data is handled and analyzed. The goal was to improve efficiency and accuracy by first cleaning and analyzing the data in Excel, and then automating the process using Python. Here’s a detailed look into my journey, the tools I used, and the impact this project had on sales data management.
 
+
 **Data Cleanup in Excel:**
 The first step of my project was to ensure that the sales data was clean and organized. Using Excel, I meticulously went through the data to identify and correct any inconsistencies. This involved:
 
