@@ -1,4 +1,6 @@
 # Summer-Internship-2024
+**1. Recruitment Tracker Dashboard: **
+
 **Introduction:**
 
 During my one-month internship, I had the opportunity to work on an exciting project that involved creating a comprehensive recruitment tracker dashboard using Microsoft Excel and Power BI. The goal of this project was to streamline the recruitment process, provide detailed insights into key metrics, and enable data-driven decision-making for HR personnel and recruiters. In this blog, I will share my journey, the technologies I used, and the valuable lessons I learned throughout this project.
@@ -15,18 +17,21 @@ Microsoft Power BI:
 
 Power BI was the main tool for data visualization and analytics. By importing data from Excel into Power BI, I created data models to establish relationships between different data tables. Power BI's DAX (Data Analysis Expressions) queries enabled advanced data manipulation and custom metric calculations. The interactive dashboards and reports provided valuable insights into recruitment trends and performance.
 Project Workflow:
-
-System Planning with Flowcharts:
+**
+System Planning with Flowcharts:**
 
 I began by creating flowcharts to map out the entire recruitment process. This step was crucial for understanding the workflow and identifying the data points that needed to be tracked. The flowcharts helped in visualizing the stages from job posting to candidate feedback.
-Data Collection and Preparation in Excel:
 
+**
+Data Collection and Preparation in Excel:**
 After planning, I collected and organized recruitment data in Excel. This included details about job postings, candidate applications, interview schedules, and feedback from HR and interviewers. Using Excel's data cleaning features, I ensured the data was accurate and consistent.
 Excel's formulas and functions were employed to calculate essential recruitment metrics, such as the average time to hire and the cost per employee.
-Dashboard Creation in Power BI:
 
+
+**Dashboard Creation in Power BI:**
 By importing the prepared data from Excel into Power BI, I developed interactive dashboards that provided real-time insights into recruitment metrics. DAX queries were used to calculate custom metrics, and various visualizations like bar charts, line charts, and pie charts were employed to represent the data effectively.
-Lessons Learned:
+
+**Lessons Learned:**
 During this internship project, I gained valuable experience in data integration, analysis, and visualization. Some key takeaways include:
 
 The importance of data accuracy and consistency in building reliable dashboards.
