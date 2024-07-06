@@ -62,54 +62,56 @@ During my recent 1-month internship, I undertook a project to transform how sale
 
 
 **Week 1**
-**Day 1:**      
-                Began organizing and cleaning sales data in Excel.
-                Removed duplicates and standardized data formats.
-Day 2:
 
-Addressed missing data by filling gaps or removing incomplete entries.
-Created initial pivot tables to summarize sales data by product category, region, and sales representative.
-Day 3:
+**Day 1:** 
 
-Generated pivot charts to visually represent the pivot table summaries.
-Conducted basic statistical analysis using Excel’s data analysis tools.
-Day 4:
+    Began organizing and cleaning sales data in Excel.
+    Removed duplicates and standardized data formats.
+**Day 2:**
 
-Gained initial insights into top-performing products, regional sales trends, and sales rep performance.
-Reviewed cleaned data for accuracy and completeness.
-Day 5:
+    Addressed missing data by filling gaps or removing incomplete entries.
+    Created initial pivot tables to summarize sales data by product category, region, and sales representative.
+**Day 3:**
 
-Created advanced pivot tables to analyze sales data by multiple dimensions.
-Applied conditional formatting to highlight key trends and anomalies.
-Day 6:
+    Generated pivot charts to visually represent the pivot table summaries.
+    Conducted basic statistical analysis using Excel’s data analysis tools.
+**Day 4:**
 
-Developed various chart types (bar, line, pie) to represent sales data trends visually.
-Compiled insights into a comprehensive Excel report.
-Week 2
-Day 1:
+    Gained initial insights into top-performing products, regional sales trends, and sales rep performance.
+    Reviewed cleaned data for accuracy and completeness.
+**Day 5:**
 
-Installed necessary Python libraries: pandas, openpyxl, matplotlib, seaborn, and numpy.
-Imported cleaned data from Excel into Jupyter Notebook using openpyxl.
-Day 2:
+    Created advanced pivot tables to analyze sales data by multiple dimensions.
+    Applied conditional formatting to highlight key trends and anomalies.
+**Day 6:**
 
-Loaded data into pandas DataFrame and performed initial data transformation.
-Created initial plots using matplotlib and seaborn to visualize sales trends.
-Day 3:
+    Developed various chart types (bar, line, pie) to represent sales data trends visually.
+    Compiled insights into a comprehensive Excel report.
+**Week 2**
+**Day 1:**
 
-Scripted the entire data cleaning process using pandas.
-Automated basic data analysis and visualizations.
-Day 4:
+    Installed necessary Python libraries: pandas, openpyxl, matplotlib, seaborn, and numpy.
+    Imported cleaned data from Excel into Jupyter Notebook using openpyxl.
+**Day 2:**
 
-Enhanced data analysis automation with more complex operations.
-Developed dynamic visualizations to provide more detailed insights.
-Day 5:
+    Loaded data into pandas DataFrame and performed initial data transformation.
+    Created initial plots using matplotlib and seaborn to visualize sales trends.
+**Day 3:**
 
-Combined insights and visualizations from Python into a final comprehensive report.
-Reviewed and refined the automated scripts for accuracy.
-Day 6:
+    Scripted the entire data cleaning process using pandas.
+    Automated basic data analysis and visualizations.
+**Day 4:**
 
-Prepared a presentation to showcase the project’s methodology, findings, and impact.
-Finalized the project report and presentation materials.
+    Enhanced data analysis automation with more complex operations.
+    Developed dynamic visualizations to provide more detailed insights.
+**Day 5:**
+
+    Combined insights and visualizations from Python into a final comprehensive report.
+    Reviewed and refined the automated scripts for accuracy.
+**Day 6:**
+
+    Prepared a presentation to showcase the project’s methodology, findings, and impact.
+    Finalized the project report and presentation materials.
 
 **Impact and Conclusion:**
 The automation of the sales data analysis process had a significant impact. It drastically reduced the time and effort required for manual data handling and analysis, minimized the risk of errors, and ensured more reliable insights. The visual reports generated through Python provided a clearer and more detailed understanding of the sales data, aiding in strategic decision-making.
