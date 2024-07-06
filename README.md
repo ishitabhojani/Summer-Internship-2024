@@ -61,11 +61,10 @@ During my recent 1-month internship, I undertook a project to transform how sale
 
 
 
-Week 1
-Day 1:
-
-Began organizing and cleaning sales data in Excel.
-Removed duplicates and standardized data formats.
+**Week 1**
+**Day 1:**      
+                Began organizing and cleaning sales data in Excel.
+                Removed duplicates and standardized data formats.
 Day 2:
 
 Addressed missing data by filling gaps or removing incomplete entries.
